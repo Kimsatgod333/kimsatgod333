@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+### 🔭 It's ME
 <!--
 **Kimsatgod333/kimsatgod333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 갈비찜 재료
+소갈비 (800~900g), 무 2토막, 당근 1/2개, 대파 1대
+## 양념장
+베 1/2개, 양파 1/2개, 다진 마늘 2스푼, 간장 10스푼, 올리고당 2스푼, 굴소스 1스푼, 맛술 5스푼, 청주 4스푼, 설탕 2스푼, 다진 생강 0.3 스푼, 후춧가루 0.3 스푼, 참기름 0.5스푼
